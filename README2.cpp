@@ -1,4 +1,3 @@
-question 9
 #ifndef STOCK20_H_
 #define STOCK20_H_
 #include <string>
