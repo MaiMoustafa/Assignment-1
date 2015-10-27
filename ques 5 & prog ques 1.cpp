@@ -1,9 +1,7 @@
-5 & 7 & prog ex 1
-
 '''cpp
 #ifndef BankAcc
 #define BankAcc
-#iclude <string>
+#include <string>
 using namespace std;
 class BankAccount
 {
